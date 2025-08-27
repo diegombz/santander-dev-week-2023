@@ -9,7 +9,7 @@ description = 'JAVA RESTful API criada para o desafio DIO'
 
 java {
 	toolchain {
-		languageVersion = JavaLanguageVersion.of(21)
+		languageVersion = JavaLanguageVersion.of(17)
 	}
 }
 
